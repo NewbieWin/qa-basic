@@ -1,3 +1,6 @@
 # qa-basic
+
 первое изменение
- i dod it on 'develop' branch
+
+
+i dod it on 'dev' branch
